@@ -1,0 +1,34 @@
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\bin\Debug\BattleSimulator.exe.config
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\bin\Debug\BattleSimulator.exe
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\bin\Debug\BattleSimulator.pdb
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Debug\BattleSimulator.csprojAssemblyReference.cache
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Debug\BattleSimulator.BattleSimulatorForm.resources
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Debug\BattleSimulator.Properties.Resources.resources
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Debug\BattleSimulator.csproj.GenerateResource.cache
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Debug\BattleSimulator.exe
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Debug\BattleSimulator.pdb
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\bin\Debug\BattleSimulator.exe.config
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\bin\Debug\BattleSimulator.exe
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\bin\Debug\BattleSimulator.pdb
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\obj\Debug\BattleSimulator.csprojAssemblyReference.cache
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\obj\Debug\BattleSimulator.BattleSimulatorForm.resources
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\obj\Debug\BattleSimulator.Properties.Resources.resources
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\obj\Debug\BattleSimulator.csproj.GenerateResource.cache
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\obj\Debug\BattleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\obj\Debug\BattleSimulator.exe
+C:\Users\bruce\OneDrive\Bureaublad\HBO-ICT Opslag\Software PD03\BattleSimulator\obj\Debug\BattleSimulator.pdb
+C:\Users\Bruce van de Ven\Desktop\battlesim\BattleSimulator\obj\Debug\BattleSimulator.csprojAssemblyReference.cache
+C:\Users\Bruce van de Ven\Desktop\battlesim\BattleSimulator\obj\Debug\BattleSimulator.BattleSimulatorForm.resources
+C:\Users\Bruce van de Ven\Desktop\battlesim\BattleSimulator\obj\Debug\BattleSimulator.csproj.GenerateResource.cache
+C:\Users\Bruce van de Ven\Desktop\battlesim\BattleSimulator\obj\Debug\BattleSimulator.exe
+C:\Users\Bruce van de Ven\Desktop\battlesim\BattleSimulator\obj\Debug\BattleSimulator.pdb
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\obj\Debug\BattleSimulator.BattleSimulatorForm.resources
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\obj\Debug\BattleSimulator.csproj.GenerateResource.cache
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\obj\Debug\BattleSimulator.exe
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\obj\Debug\BattleSimulator.pdb
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\obj\Debug\BattleSimulator.csproj.AssemblyReference.cache
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\obj\Debug\BattleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\obj\Debug\BattleSimulator.Properties.Resources.resources
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\bin\Debug\BattleSimulator.exe.config
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\bin\Debug\BattleSimulator.exe
+C:\Users\Bruce van de Ven\Desktop\HBO-ICT\battlesim\BattleSimulator\bin\Debug\BattleSimulator.pdb

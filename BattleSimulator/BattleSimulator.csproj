@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{22A7DD0B-A972-4510-A805-87E1124FA965}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BattleSimulator</RootNamespace>
+    <AssemblyName>BattleSimulator</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BattleSim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BattleSim.Designer.cs">
+      <DependentUpon>BattleSim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Speler.cs" />
+    <EmbeddedResource Include="BattleSim.resx">
+      <DependentUpon>BattleSim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\1200px-L%27Arbre_des_contes.jpg" />
+    <Content Include="Resources\8d7b67f798121b900eda125cf4e20698.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Angerfist.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\191129-baby-yoda-toys-christmas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Frans Duijts.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Bowser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\PowerPuffGirls.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Angerfist1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\metal-shield-stock-photography-stock-illustration-icon-silver-shield.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\RomeBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\r2d2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Fish.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\iron-man-electronic-helmet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Death.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Death2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\gameOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ArmorShield.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\VS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ChoosePlayer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\VS2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\VS3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\clipart-1-20-12-58-33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Player1Cropped.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Player1Cropped1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Player2Cropped.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\pngkey.com-hit-png-1255952.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Perfect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\CriticalHit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Too.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\TooBadCropped.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\PixelArt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\icons8-reset-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Attack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Potion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Potion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\potion-icon-png-15604.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\potion-icon-png-156041.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\rules-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Highscore.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

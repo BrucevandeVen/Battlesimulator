@@ -1,0 +1,9 @@
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\bin\Release\BattleSimulator.exe.config
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\bin\Release\BattleSimulator.exe
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\bin\Release\BattleSimulator.pdb
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Release\BattleSimulator.csprojAssemblyReference.cache
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Release\BattleSimulator.BattleSimulatorForm.resources
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Release\BattleSimulator.Properties.Resources.resources
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Release\BattleSimulator.csproj.GenerateResource.cache
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Release\BattleSimulator.exe
+C:\Users\bruce\source\repos\Verdieping Software\BattleSimulator\obj\Release\BattleSimulator.pdb
